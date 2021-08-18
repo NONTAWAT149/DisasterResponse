@@ -19,21 +19,22 @@ This project shows how to build NLP tool to extract and classify message when th
 This tool will find key words from messages using NLP. Then, Machine Learning model will classify/identify type of message from key words.
 
 ### File Location:
-- app
+
+app
 | - template
 | |- master.html  # main page of web app
 | |- go.html  # classification result page of web app
 |- run.py  # Flask file that runs app
 
-- data
+data
 |- disaster_categories.csv  # data to process 
 |- disaster_messages.csv  # data to process
 |- process_data.py
 |- InsertDatabaseName.db   # database to save clean data to
 
-- models
+models
 |- train_classifier.py
 |- classifier.pkl  # saved model 
 
-- README.md
+README.md
 
