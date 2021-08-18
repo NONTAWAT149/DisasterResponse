@@ -16,7 +16,7 @@
 ### Project Summary:
 This project shows how to build NLP tool to extract and classify message when there is an incident.
 
-This tool will find key words from messages using NLP. Then, Machine Learning model will classify/identufy type of message from key words.
+This tool will find key words from messages using NLP. Then, Machine Learning model will classify/identify type of message from key words.
 
 ### File Location:
 - app
